@@ -74,9 +74,3 @@ This project can be enhanced further by:
 
 ### ❌ Invalid Input (Marks > 100)
 ![Invalid Output](screenshots/invalid_output.png)
-
-
-## ▶️ How to Run the Program
-1. Clone the repository
-   ```bash
-   git clone <repository-url>
